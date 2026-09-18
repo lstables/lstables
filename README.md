@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Lee Stables
 
-<!--
-**lstables/lstables** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full-Stack Developer.** I build Laravel applications, 
 
-Here are some ideas to get you started:
+business systems and SaaS products, from architecture through 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+to production.
+
+I specialise in Laravel, PHP, Vue.js, Inertia.js and TypeScript, 
+
+with over a decade of experience building software.
+
+I enjoy solving complex business problems, integrating systems 
+
+and turning manual processes into reliable software.
+
+## Open source
+
+### [Laravel Vue Vapor Upload](...)
+
+Direct-to-S3 file uploads with Laravel, Vue and Laravel Vapor.
+
+### [PHPStorm Settings](...)
+
+My shared PHPStorm configuration for Laravel/PHP development.
+
+### [Laravel Mailer Class](...)
+
+Reusable Laravel mailer implementation.
+
+### [Vue Upload Example](...)
+
+Example Vue.js file upload implementation.
+
+## What I work with
+
+Laravel · PHP · Vue.js · Inertia.js · TypeScript · PostgreSQL · PestPHP
+
+MySQL · SQL Server · Redis · AWS
